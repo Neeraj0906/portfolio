@@ -1,3 +1,22 @@
+portfolio project was built when i started learning javascript and it was built using html,css, javascript.
+the project was about me .
+so in the **header** there are 5 icons consists of HOME, EDUCATION, WORK, RECOMENDATION AND Projects.
+in **sidnav** started with my basic details like name , role, age , residence .
+the started with the progeamming languages known by me , skills and a button **Download CV**.
+in the main block I detailed about the components
+              1.Home - it consists of my name , role and about the role and a here me button.
+              2.Education- it consists of my qualification like where i did my schooling and etc.
+              3.work history- where and all i worked and for how many years , etc.
+              4.Recommendations- about people who recommended me .
+              5.projects - its about projects that i did ,and if you click on the icons, it will take you to my projects in the github
+I used javascript for the icons in the header , if you click on the icon , perticular content about the component will be scrolled 
+and we can view the content in that perticular content.
+
+
+
+
+
+
 # portfolio
 <!DOCTYPE html>
 <html lang="en">
